@@ -1,0 +1,41 @@
+const personsObjects = [
+  {
+    firstname:"Murat",lastname:"Kilic", birthyear: 1978, birthcountry: "Denmark", birthcity: "Aarhus", mothers_firstname: "Bahar", fathers_firstname: "Ismet"
+  },
+  {
+    firstname:"Erik",
+    lastname:"Storström", 
+    birthyear: 1974,
+    birthcountry: "Sverige",
+    birthcity: "Malmø",
+    mothers_firstname: "Doris",
+    fathers_firstname: "Hakon"
+  },
+  {
+    firstname: "Alice",
+    lastname: "Smith",
+    birthyear: 1985,
+    birthcountry: "USA",
+    birthcity: "New York",
+    mothers_firstname: "Mary",
+    fathers_lastname: "Smith"
+  },
+  {
+    firstname: "Bob",
+    lastname: "Johnson",
+    birthyear: 1992,
+    birthcountry: "Canada",
+    birthcity: "Toronto",
+    mothers_firstname: "Emily",
+    fathers_lastname: "Johnson"
+  },
+  {
+    firstname: "Charlie",
+    lastname: "Brown",
+    birthyear: 1978,
+    birthcountry: "UK",
+    birthcity: "London",
+    mothers_firstname: "Sophie",
+    fathers_lastname: "Brown"
+  },
+]
